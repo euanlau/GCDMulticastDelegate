@@ -1,4 +1,13 @@
-# GCDMulticastDelegate
+GCDMulticastDelegate
+===========
+
+[![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat
+)](https://developer.apple.com/iphone/index.action)
+[![Language](http://img.shields.io/badge/language-objc-brightgreen.svg?style=flat
+)](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC)
+[![License](http://img.shields.io/badge/license-BSD-lightgrey.svg?style=flat
+)](http://choosealicense.com/licenses/bsd-2-clause)
+
 GCDMulticastDelegate extracted from XMPPFramework
 
 * **What is a "multicast delegate"?**
